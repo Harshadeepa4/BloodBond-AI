@@ -54,3 +54,9 @@ Post-hackathon, our milestones will focus on adding advanced integrations and co
 Developing the Wearable Device Sync for sophisticated health monitoring.
 Building the fully interactive Peer Support Groups to foster a strong patient community.
 Refining the entire platform for security, scalability, and a public launch.
+
+
+
+
+![2](https://github.com/user-attachments/assets/d468dc89-b04f-4101-9aaf-eccc9671e8b2)
+
