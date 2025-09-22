@@ -1,8 +1,5 @@
 AI Powered Blood Management System
- 
-Solution
-
-Our Solution BloodBond AI is a multilingual mobile app designed to unite Thalassemia patients, donors, and NGOs across India's diverse communities. For patients its AI provides reliable donor matching, suggests standby donors, and offers personalized wellness advice. It makes donating a simple and rewarding experience for donors through gamification, while providing NGOs with digital tools to manage campaigns. Beyond logistics, BloodConnect AI builds an inclusive support system with features like peer support groups, ensuring no patient feels alone in their journey and creating a network built on reliability and community.
+BloodBond AI is a multilingual mobile app designed to unite Thalassemia patients, donors, and NGOs across India's diverse communities. For patients its AI provides reliable donor matching, suggests standby donors, and offers personalized wellness advice. It makes donating a simple and rewarding experience for donors through gamification, while providing NGOs with digital tools to manage campaigns. Beyond logistics, BloodConnect AI builds an inclusive support system with features like peer support groups, ensuring no patient feels alone in their journey and creating a network built on reliability and community.
 
 Functionality
 For Donors: A Rewarding and Simple Way to Help
